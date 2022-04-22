@@ -15,7 +15,7 @@
     "@docus/twitter": "^1.0.4",
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/recaptcha": "^1.0.4",
-    "@popperjs/core": "^2.10.2",
+    "@popperjs/core": "^2.11.4",
     "@snackbar/core": "^1.7.0",
     "date-fns": "^2.25.0",
     "lottie-web": "^5.7.14",
