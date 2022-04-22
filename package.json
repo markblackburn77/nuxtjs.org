@@ -18,7 +18,7 @@
     "@popperjs/core": "^2.10.2",
     "@snackbar/core": "^1.7.0",
     "date-fns": "^2.25.0",
-    "lottie-web": "^5.7.14",
+    "lottie-web": "^5.9.1",
     "vue-clickaway": "^2.2.2",
     "vue-cookieconsent-component": "^1.2.0",
     "vue-if-bot": "^1.2.0",
